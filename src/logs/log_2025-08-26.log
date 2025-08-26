@@ -1,0 +1,44 @@
+2025-08-26 13:57:47,252 - INFO - DataProcessing Intialized
+2025-08-26 13:57:47,258 - ERROR - Error in C:\Users\tegbe\Downloads\MLOps Project\Anime_Reccomendation_Project\Code\src\data_processing.py , line 34 : Failed to load data
+2025-08-26 14:01:28,945 - INFO - DataProcessing Intialized
+2025-08-26 14:01:31,346 - INFO - Data loaded sucesfully for Data Processing
+2025-08-26 14:01:31,800 - INFO - Filtered users sucesfully...
+2025-08-26 14:01:34,745 - INFO - Scalind done for Processing 
+2025-08-26 14:01:35,281 - INFO - Encoding done for Users and Anime
+2025-08-26 14:01:37,934 - INFO - Data splitted sucesfullyy
+2025-08-26 14:01:38,029 - INFO - user2user_encoded saved sucesfully in processed directory
+2025-08-26 14:01:38,054 - INFO - user2user_decoded saved sucesfully in processed directory
+2025-08-26 14:01:38,148 - INFO - anim2anime_encoded saved sucesfully in processed directory
+2025-08-26 14:01:38,219 - INFO - anim2anime_decoded saved sucesfully in processed directory
+2025-08-26 14:01:50,429 - INFO - ALl the training testing data as well as rating_df is saved now..
+2025-08-26 14:02:15,773 - INFO - DF AND SYNOPSIS_Df saved sucesfullyy...
+2025-08-26 14:02:15,782 - INFO - Data Processing Pipeline Run sucesfully .... Congrats
+2025-08-26 14:20:45,463 - INFO - DataProcessing Intialized
+2025-08-26 14:20:48,123 - INFO - Data loaded sucesfully for Data Processing
+2025-08-26 14:20:48,537 - INFO - Filtered users sucesfully...
+2025-08-26 14:20:50,695 - INFO - Scalind done for Processing 
+2025-08-26 14:20:51,098 - INFO - Encoding done for Users and Anime
+2025-08-26 14:20:53,464 - INFO - Data splitted sucesfullyy
+2025-08-26 14:20:53,560 - INFO - user2user_encoded saved sucesfully in processed directory
+2025-08-26 14:20:53,612 - INFO - user2user_decoded saved sucesfully in processed directory
+2025-08-26 14:20:53,708 - INFO - anim2anime_encoded saved sucesfully in processed directory
+2025-08-26 14:20:53,798 - INFO - anim2anime_decoded saved sucesfully in processed directory
+2025-08-26 14:21:02,949 - INFO - ALl the training testing data as well as rating_df is saved now..
+2025-08-26 14:21:29,208 - INFO - DF AND SYNOPSIS_Df saved sucesfullyy...
+2025-08-26 14:21:29,215 - INFO - Data Processing Pipeline Run sucesfully .... Congrats
+2025-08-26 14:57:23,092 - INFO - Model Training & COMET ML initialized..
+2025-08-26 14:57:26,859 - INFO - Data loaded sucesfully for Model Trainig
+2025-08-26 14:57:26,936 - INFO - Succesfully read the YAML file
+2025-08-26 14:57:26,937 - INFO - Loaded configuration from config.yaml
+2025-08-26 14:57:27,779 - INFO - Model created sucesfully....
+2025-08-26 15:08:00,786 - INFO - Model Training & COMET ML initialized..
+2025-08-26 15:08:10,206 - INFO - Data loaded sucesfully for Model Trainig
+2025-08-26 15:08:11,457 - INFO - Succesfully read the YAML file
+2025-08-26 15:08:11,461 - INFO - Loaded configuration from config.yaml
+2025-08-26 15:08:13,947 - INFO - Model created sucesfully....
+2025-08-26 15:18:21,445 - INFO - Model training Completedd.....
+2025-08-26 15:18:21,455 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-08-26 15:18:21,629 - INFO - Model saved to C:/Users/tegbe/Downloads/MLOps Project/Anime_Reccomendation_Project/Code/artifacts/model\model.h5
+2025-08-26 15:18:21,639 - INFO - Extracting weights for user_embedding
+2025-08-26 15:18:21,656 - INFO - Extracting weights for anime_embedding
+2025-08-26 15:18:21,808 - INFO - User and Anime weights saved sucesfully....
