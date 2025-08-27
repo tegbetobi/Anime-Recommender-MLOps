@@ -18,6 +18,8 @@ pipeline {
                 }
             }
         }
+    }
+}
 
 //         stage("Making a virtual environment...."){
 //             steps{
